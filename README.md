@@ -9,16 +9,7 @@
 - Поддержка макросов `#define` (базовая реализация)
 - Логирование этапов обработки
 
-## Установка
-
-```bash
-git clone https://github.com/nastyaskysat/cpp-preprocessor.git
-cd cpp-preprocessor
-mkdir build && cd build
-cmake ..
-make
-
-Использование
+## Использование
 
 ```
 ./preprocessor input.cpp output.cpp
